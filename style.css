@@ -316,15 +316,15 @@ button:active {
 }
 
 #explore .container-second .items:first-child {
-    background-image: url("assets/patch/image\ 1.webp");
+    background-image: url("assets/patch/image-1.webp");
 }
 
 #explore .container-second .items:nth-child(2) {
-    background-image: url("assets/patch/image\ 2.webp");
+    background-image: url("assets/patch/image-2.webp");
 }
 
 #explore .container-second .items:nth-child(3) {
-    background-image: url("assets/patch/image\ 3.webp");
+    background-image: url("assets/patch/image-3.webp");
 }
 
 #explore .container-second .items:last-child {
